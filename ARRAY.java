@@ -12,8 +12,6 @@ public class ARRAY{
 
     }
 
-
-
     public void populateArray(java.util.Scanner scanner) {
 
         System.out.println("Enter the elements of the array:");

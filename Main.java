@@ -6,8 +6,6 @@ public class Main {
         int row;
         int col;
 
-
-
     do {
        
              System.out.print("Row: ");//
@@ -22,7 +20,6 @@ public class Main {
         }
        
      } while (row >= 10 && col >= 10);
-    
 
        int [][] arr = new int [10][10];
         int menu;
